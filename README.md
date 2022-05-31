@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Design Patterns, Data Structures, Django, DevOps tools** ...
 
-- 👨‍💻 Some of my projects are available at [github.com/bigsbug](github.com/bigsbug)
-
 - 📝 I regularly write articles on [virgool.io/@Novo](virgool.io/@Novo)
 
 - 💬 Ask me about **Django, Python**
