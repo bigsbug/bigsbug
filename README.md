@@ -1,21 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A Django web developer and python lover</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=BigsBug&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-- 🌱 I’m currently learning **Design Patterns, Data Structures, Django, DevOps tools** ...
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi%20I%27m%20Ali%20Welcome%20to%20my%20profile;see%20my%20repos%2C%20contribute%20to%20them;open%20issues%2Cs%20or%20any%20things%20you%20want%20;%20Be%20comfy)](https://git.io/typing-svg)
+
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=bigsbug&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=bigsbug&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Nima Fanniasl github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsbug&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 - 📝 I regularly write articles on [virgool.io/@Novo](virgool.io/@Novo)
 
-- 💬 Ask me about **Django, Python**
-
 - 📫 How to reach me **booxgitboox@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://stackoverflow.com/users/16567918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16567918" height="30" width="40" /></a>
 <a href="https://t.me/hands_on_keyboard" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram : hands_on_keyboard" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
@@ -129,10 +137,3 @@
     />
   </a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bigsbug&show_icons=true&locale=en&layout=compact" alt="bigsbug" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bigsbug&show_icons=true&locale=en" alt="bigsbug" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigsbug&" alt="bigsbug" /></p> -->
