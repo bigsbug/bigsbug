@@ -13,7 +13,7 @@
 </div>
 
 
-- 📝 I regularly write articles on [virgool.io/@Novo](virgool.io/@Novo)
+- 📝 I regularly write articles on **[virgool.io](virgool.io/@Novo)**
 
 - 📫 How to reach me **booxgitboox@gmail.com**
 
