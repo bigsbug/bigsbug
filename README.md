@@ -20,7 +20,6 @@
 ### Connect with me:
 <p align="left">
 <a href="https://stackoverflow.com/users/16567918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16567918" height="30" width="40" /></a>
-<a href="https://t.me/hands_on_keyboard" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="Telegram : hands_on_keyboard" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
